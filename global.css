@@ -1,0 +1,14 @@
+/* 书写全局样式 */
+body{
+	background:url('ta7.jpg'); 
+	}
+div{
+	background: url('tas.jpg');
+	width:98%;
+	height: 200px;
+	/*border:5px solid red;*/
+	position: absolute;
+	bottom: 150px;
+	text-align: center;
+	/*color:#fff;*/
+}
